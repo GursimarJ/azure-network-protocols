@@ -11,7 +11,8 @@ In this walkthrough, we will set up two virtual machines (VMs) in Microsoft Azur
 
 <h2>Environments Used</h2>
 
-- Microsoft Azure 
+- Microsoft Azure
+- macOS (Host Machine)
 - Windows 10
 - Linux Ubuntu
 - Windows App(Remote Desktop)
